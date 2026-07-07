@@ -1,23 +1,20 @@
-# Libro regalo 18 · GitHub Pages
+# Revista Izan · GitHub Pages
 
-Paquete listo para publicar en GitHub Pages.
+Paquete preparado para publicar en GitHub Pages.
 
-## Publicación rápida
+## Publicación
 
-1. Crea un repositorio en GitHub.
-2. Sube **todo el contenido de esta carpeta** a la raíz del repositorio, no la carpeta entera dentro de otra.
-3. En GitHub: Settings → Pages.
-4. Source: Deploy from a branch.
-5. Branch: main / root.
-6. Guarda y espera a que GitHub genere la URL.
+1. Sube todo el contenido de esta carpeta a la raíz del repositorio.
+2. En GitHub: Settings → Pages.
+3. Source: Deploy from a branch.
+4. Branch: main / root.
+5. Espera la URL pública.
 
-## Estructura
+## Contenido
 
-- `index.html`: archivo principal.
-- `.nojekyll`: evita problemas de procesado en GitHub Pages.
-- `assets/pages/`: páginas del libro renombradas de forma segura.
-- `assets/cover.png`: imagen para previsualización al compartir enlace.
+- `index.html`: visor web responsive.
+- `assets/pages/`: 19 páginas optimizadas para web.
+- `assets/pdf/revista-izan-v1-final-imprenta.pdf`: PDF de imprenta incluido como descarga.
+- `.nojekyll`: evita procesado de Jekyll.
 
-## Páginas detectadas
-
-Se han incluido 19 imágenes del ZIP recibido, ordenadas por numeración del nombre de archivo.
+Versión recibida: 19 páginas PNG normalizadas a 1448 × 1086 px.
