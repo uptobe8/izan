@@ -1,2 +1,0 @@
-# izan
-cumple izan
